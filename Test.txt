@@ -1,1 +1,2 @@
-This is Branch file.
+This is Master file.
+This is added in branch.
