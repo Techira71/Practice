@@ -1,1 +1,2 @@
-This is Master file Modified on remote.
+This is Master file.
+This is added in branch.
